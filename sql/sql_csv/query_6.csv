@@ -1,0 +1,4 @@
+"category","total_transactions","small_transactions","small_tx_fraud_rate","large_transactions","large_tx_fraud_rate"
+"grocery_pos","123638","54257",0,"69381",0.02512215159769966
+"misc_net","63287","49291",0,"13996",0.06537582166333238
+"shopping_net","97543","80094",0,"17449",0.09817181500372514

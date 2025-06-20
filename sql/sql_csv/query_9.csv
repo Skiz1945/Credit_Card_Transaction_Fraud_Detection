@@ -1,0 +1,3 @@
+"distance_category","fraud_rate","transaction_count"
+"Local (<1 degree)",0.005770075176004974,"1018011"
+"Regional (1-5 degrees)",0.005856515373352855,"278664"

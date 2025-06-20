@@ -1,0 +1,21 @@
+Summary of SQL Analysis (Queries 1–51)
+Integrating Queries 50 and 51 with the prior 49 queries, the SQL analysis reveals comprehensive fraud patterns across multiple dimensions:
+
+Time-Based Patterns:
+Late-night hours (22:00–23:00) are high-risk, with fraud rates up to 45% on Thursdays and Fridays (Query 50).
+Mid-to-late weekdays amplify risks (Queries 44, 47).
+Merchant-Specific Patterns:
+Certain merchants (e.g., fraud_Kozey-Boehm, fraud_Terry-Huel) show fraud rates of 36–45% during late-night hours (Query 50).
+High-risk categories like shopping_net and grocery_pos have elevated fraud rates (Queries 38, 40).
+Cardholder-Specific Patterns:
+Older cardholders (60+) are more vulnerable, with 100% fraud rates in compromised accounts (Queries 42, 51).
+High average transaction amounts ($534–$774) correlate with fraud (Query 51).
+Transaction Amount Patterns:
+High-value transactions (≥$500) are more likely fraudulent (Queries 24, 29, 51).
+Small test transactions often precede large fraudulent ones (Query 48).
+Category-Specific Patterns:
+shopping_net and grocery_pos are fraud hotspots, with significant day-of-week variations (Queries 1, 17, 44).
+
+Overall Insight:
+
+Fraudsters exploit late-night hours on Thursdays and Fridays, targeting specific merchants and older cardholders with high-value transactions in vulnerable categories.

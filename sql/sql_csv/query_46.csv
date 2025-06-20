@@ -1,0 +1,15 @@
+"merchant","hour","transaction_count","avg_amount"
+"fraud_Bernier, Volkman and Hoeger","2","1",788.49
+"fraud_Bernier, Volkman and Hoeger","3","1",818.45
+"fraud_Bernier, Volkman and Hoeger","22","4",839.2225
+"fraud_Bernier, Volkman and Hoeger","23","7",776.0814285714285
+"fraud_Corwin-Gorczany","0","1",831.16
+"fraud_Corwin-Gorczany","4","1",897.25
+"fraud_Corwin-Gorczany","5","1",814.18
+"fraud_Corwin-Gorczany","15","1",795.22
+"fraud_Corwin-Gorczany","21","1",796.78
+"fraud_Corwin-Gorczany","22","5",764.196
+"fraud_Corwin-Gorczany","23","6",862.6616666666667
+"fraud_Dach-Nader","12","1",744.47
+"fraud_Dach-Nader","22","4",804.9224999999999
+"fraud_Dach-Nader","23","5",845.418
