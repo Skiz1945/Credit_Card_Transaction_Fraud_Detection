@@ -1,5 +1,5 @@
 Summary of SQL Analysis (Queries 1–51)
-Integrating Queries 50 and 51 with the prior 49 queries, the SQL analysis reveals comprehensive fraud patterns across multiple dimensions:
+The SQL analysis reveals comprehensive fraud patterns across multiple dimensions:
 
 Time-Based Patterns:
 Late-night hours (22:00–23:00) are high-risk, with fraud rates up to 45% on Thursdays and Fridays (Query 50).

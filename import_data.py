@@ -11,9 +11,8 @@ fraudTrain['dob'] = pd.to_datetime(fraudTrain['dob'])
 fraudTest['trans_date_trans_time'] = pd.to_datetime(fraudTest['trans_date_trans_time'])
 fraudTest['dob'] = pd.to_datetime(fraudTest['dob'])
 
-# postgreSQL connection 
-engine = create_engine('postgresql://postgres:Skiz1312-@localhost:5432/fraud_detection')
-
+# PostgreSQL connection (replace 'your_password' with your actual password)
+engine = create_engine('postgresql://postgres:your_password@localhost:5432/fraud_detection')
 # import to tables
 fraudTrain.to_sql('train_transactions', engine, if_exists='replace', index=False)
 fraudTest.to_sql('test_transactions', engine, if_exists='replace', index=False)
